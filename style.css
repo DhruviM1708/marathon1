@@ -1,0 +1,60 @@
+.color{
+    background-color:#78b1be;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right:auto;
+    margin-left: auto;   
+}
+.bgimg{
+    background-image:url('bd.jpg') ;
+    background-repeat:;
+    background-size:;
+   image-rendering: auto;
+   background-size: contain;
+   padding: -20px;
+}
+.text{
+    color:white;
+}
+.grey{
+       
+    background-color:#202020 ;
+    opacity: 0.8;
+    background-size:2500px;
+    
+}
+.opacity{
+    opacity: 0.8;
+}
+.pink{
+
+    position:absolute;
+    margin-left:1100px;
+    top:152px;
+    width: 190px;
+    height:649px;
+    background-color: #FF69B4;
+    color:white;
+    z-index: 1;
+    
+}
+.img{
+    margin-right: auto;
+}
+.margin{
+    margin-top: 500%;
+}
+.bg{
+        background-color:#f1807e;
+        width: 5px;
+        
+}.blue{
+    background-color:#87CEEB;
+    margin-left:400px;
+    opacity: 0.8;
+    width:850px;
+    height: 100px;
+    bottom :100px;
+    position: relative;
+ }
+
